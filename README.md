@@ -1,1 +1,1 @@
-# MIPT_Python_2017
+# Python_2017
